@@ -13,6 +13,7 @@
 		306CED2D28EDE7D800F6448E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 306CED2B28EDE7D800F6448E /* Main.storyboard */; };
 		306CED2F28EDE7DA00F6448E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 306CED2E28EDE7DA00F6448E /* Assets.xcassets */; };
 		306CED3228EDE7DA00F6448E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 306CED3028EDE7DA00F6448E /* LaunchScreen.storyboard */; };
+		306CED3A28EDE8D400F6448E /* StarController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 306CED3928EDE8D400F6448E /* StarController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		306CED2E28EDE7DA00F6448E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		306CED3128EDE7DA00F6448E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		306CED3328EDE7DA00F6448E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		306CED3928EDE8D400F6448E /* StarController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StarController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				306CED2728EDE7D800F6448E /* SceneDelegate.swift */,
 				306CED2928EDE7D800F6448E /* ViewController.swift */,
 				306CED2B28EDE7D800F6448E /* Main.storyboard */,
+				306CED3928EDE8D400F6448E /* StarController.swift */,
 				306CED2E28EDE7DA00F6448E /* Assets.xcassets */,
 				306CED3028EDE7DA00F6448E /* LaunchScreen.storyboard */,
 				306CED3328EDE7DA00F6448E /* Info.plist */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				306CED2A28EDE7D800F6448E /* ViewController.swift in Sources */,
+				306CED3A28EDE8D400F6448E /* StarController.swift in Sources */,
 				306CED2628EDE7D800F6448E /* AppDelegate.swift in Sources */,
 				306CED2828EDE7D800F6448E /* SceneDelegate.swift in Sources */,
 			);
